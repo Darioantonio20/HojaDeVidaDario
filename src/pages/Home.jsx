@@ -5,6 +5,7 @@ import Conocimiento from "../components/Conocimiento";
 import Habilidades from "../components/Habilidades";
 import RedeSociales from "../components/RedeSociales";
 import Dario from '../assets/imgs/dario.png'
+import ImagenesDescriptivas from "../components/atoms/ImagenesDescriptivas";
 function Home() {
     return ( 
         <>
@@ -13,6 +14,7 @@ function Home() {
             <DatosPersonales></DatosPersonales>
             <RedeSociales></RedeSociales>
             <Habilidades></Habilidades>
+            <ImagenesDescriptivas></ImagenesDescriptivas>
         </>
      );
 }
