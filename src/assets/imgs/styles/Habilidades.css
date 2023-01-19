@@ -1,0 +1,41 @@
+.contenedorHabilidades{
+    position: absolute;
+    width: 911px;
+    height: 165px;
+    left: 497px;
+    top: 778px;
+    
+    background: #13005A;
+}
+.tituloHabilidades{
+    position: absolute;
+    width: 911px;
+    height: 46px;
+    left: 497px;
+    top: 787px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    
+    color: #141111;
+}
+.textoHabilidades{
+    position: absolute;
+    width: 911px;
+    height: 91px;
+    left: 497px;
+    top: 852px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: justify;
+    
+    color: #000000;
+}
