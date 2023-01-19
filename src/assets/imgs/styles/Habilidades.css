@@ -11,8 +11,7 @@
     position: absolute;
     width: 911px;
     height: 46px;
-    left: 497px;
-    top: 787px;
+    top: 0px;
     
     font-family: 'Roboto';
     font-style: normal;
@@ -21,21 +20,18 @@
     line-height: 42px;
     text-align: center;
     
-    color: #141111;
+    color: #ffffff;
 }
 .textoHabilidades{
     position: absolute;
     width: 911px;
     height: 91px;
-    left: 497px;
-    top: 852px;
-    
+    top: 65px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 23px;
     text-align: justify;
-    
-    color: #000000;
+    color: #ffffff;
 }
