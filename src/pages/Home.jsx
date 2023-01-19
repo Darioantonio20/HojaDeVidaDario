@@ -4,6 +4,7 @@ import Header from "../components/atoms/Header";
 import Conocimiento from "../components/Conocimiento";
 import Habilidades from "../components/Habilidades";
 import RedeSociales from "../components/RedeSociales";
+import Dario from '../assets/imgs/dario.png'
 function Home() {
     return ( 
         <>

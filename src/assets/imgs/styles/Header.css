@@ -34,3 +34,12 @@
     text-align: center;
     color: #13005A;
 }
+.darioImg{
+    position: absolute;
+    width: 212px;
+    height: 216px;
+    left: 963px;
+    top: 24px;
+    
+    background: url(dario.png);
+}
