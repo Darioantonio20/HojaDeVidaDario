@@ -1,36 +1,37 @@
-.headerVerde{
+.conocimiento{
     position: absolute;
-    width: 1375px;
-    height: 275px;
+    width: 685px;
+    height: 191px;
     left: 32px;
-    top: -5px;
-    background: #03C988;
+    top: 351px;
+    background: #00337C;
 }
-.titulo{
+.tituloConocimiento{
     position: absolute;
-    width: 678px;
+    width: 658px;
     height: 53px;
     left: 32px;
-    top: 89px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
     text-align: center;
-    color: #00337C;
+    
+    color: #ffffff;
+    
 }
-.subtitulo{
+.textoConocimiento{
     position: absolute;
     width: 678px;
-    height: 28px;
-    left: 32px;
-    top: 148px;
+    height: 105px;
+    left: 2px;    
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 23px;
-    text-align: center;
-    color: #13005A;
+    text-align: justify;  
+    color: #ffffff;
+    top: 70px;
 }
