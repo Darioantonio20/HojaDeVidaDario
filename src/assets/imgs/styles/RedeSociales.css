@@ -1,0 +1,42 @@
+.redeSocialesAzul{
+    position: absolute;
+    width: 445px;
+    height: 154px;
+    left: 963px;
+    top: 581px;
+    background: #00337C;
+}
+.tituloRedeSocialesAzul{
+    position: absolute;
+    width: 445px;
+    height: 26px;
+  
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+.contenedoRedes{
+
+    position: absolute;
+    width: 445px;
+    height: 16px;
+    top: 50px;
+    
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #FFFFFF;
+}
