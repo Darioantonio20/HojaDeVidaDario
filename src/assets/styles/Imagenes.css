@@ -1,3 +1,12 @@
+.imagenDario{
+    position: absolute;
+    width: 212px;
+    height: 216px;
+    left: 963px;
+    top: 50px;
+    
+    background: url(dario.png);
+}
 .imagenLenguaje{
     position: absolute;
     width: 678px;
