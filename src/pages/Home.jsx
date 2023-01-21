@@ -1,20 +1,15 @@
 import { Link } from "react-router-dom";
-import DatosPersonales from "../components/atoms/DatosPersonales";
-import Header from "../components/atoms/Header";
-import Conocimiento from "../components/Conocimiento";
-import Habilidades from "../components/Habilidades";
-import RedeSociales from "../components/RedeSociales";
-import Dario from '../assets/imgs/dario.png'
-import ImagenesDescriptivas from "../components/atoms/ImagenesDescriptivas";
+import CartasInformacion from "../components/moleculas/CartasInformacion";
+import HeaderDario from "../components/moleculas/HeaderDario";
+import BodyImagenes from "../components/moleculas/BodyImagenes"
+import CartasBody from "../components/moleculas/CartasBody";
 function Home() {
     return ( 
         <>
-            <Header></Header>
-            <Conocimiento></Conocimiento>
-            <DatosPersonales></DatosPersonales>
-            <RedeSociales></RedeSociales>
-            <Habilidades></Habilidades>
-            <ImagenesDescriptivas></ImagenesDescriptivas>
+            <HeaderDario></HeaderDario>
+            <CartasInformacion></CartasInformacion>
+            <BodyImagenes></BodyImagenes>
+            <CartasBody></CartasBody>
         </>
      );
 }

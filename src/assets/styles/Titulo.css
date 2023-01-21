@@ -1,0 +1,73 @@
+#tituloHeader{
+    position: absolute;
+    width: 70%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 42px;
+    text-align: center;
+    color: #00337C;
+}
+.tituloCarta{
+    position: absolute;
+    width: 678px;
+    height: 53px;
+    left: 22px;
+    top: 311px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 42px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+.tituloDatosPersonales{
+    position: absolute;
+    width: 446px;
+    height: 26px;
+   
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #ffffff;
+}
+.tituloRedesSociales{
+    position: absolute;
+    width: 445px;
+    height: 26px;
+    left: 3px;
+   
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.tituloHabilidades{
+    position: absolute;
+    width: 911px;
+    height: 46px;   
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 42px;
+    text-align: center;
+
+    
+    color: #FFFFFF;
+}

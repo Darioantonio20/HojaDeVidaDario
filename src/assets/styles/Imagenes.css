@@ -1,16 +1,18 @@
-.ImagenDescriptiva1{
+.imagenLenguaje{
     position: absolute;
     width: 678px;
     height: 191px;
     left: 730px;
     top: 351px;
+    
     background: url(lenguaje.png);
 }
-.ImagenDescriptiva2{
+.imagenCeroUno{
     position: absolute;
     width: 445px;
     height: 372px;
     left: 32px;
     top: 571px;
+    
     background: url(ceroUno.png);
 }
