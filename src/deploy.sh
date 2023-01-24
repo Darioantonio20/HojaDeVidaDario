@@ -23,7 +23,7 @@ git commit -m 'deploy'
 # if you are deploying to https://Darioantonio20.github.io
 # git push -f git@github.com:Darioantonio20/HojaDeVidaDario.github.io.git main
 
-# if you are deploying to https://Darioantonio20.github.io/HojaDeVidaDario
+# if you are deploying to https://Darioantonio20.github.io/HojaDeVidaDario.git
 # git push -f git@github.com:Darioantonio20/HojaDeVidaDario.git main:gh-pages
 
 cd -

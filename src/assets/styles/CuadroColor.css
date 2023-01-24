@@ -9,6 +9,7 @@
     background: #03C988;
 }
 .azul{
+    display: flex;
     width: 678px;
     height: 191px;
     left: 32px;
@@ -17,6 +18,7 @@
     background: #00337C;
 }
 .cartaAzulDatosPersonales{
+    display: flex;
     position: absolute;
     width: 446px;
     height: 154px;
@@ -26,6 +28,7 @@
     background: #00337C;
 }
 .cartaAzulRedesSociales{
+    display: flex;
     position: absolute;
     width: 445px;
     height: 154px;
@@ -33,6 +36,7 @@
     background: #00337C;
 }
 .cartaAzulHabilidades{
+    display: flex;
     position: absolute;
     width: 911px;
     height: 165px;
