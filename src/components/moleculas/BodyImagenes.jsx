@@ -1,7 +1,7 @@
 import Imagen from "../atoms/Imagen";
 import '../../assets/styles/Imagenes.css'
 import imgLeng from "../../assets/imgs/lenguaje.png"
-import imgCeroUno from "../../assets/imgs/imgCeroUno.png"
+import imgCero from "../../assets/imgs/CeroUno.png"
 function BodyImagenes() {
     return ( 
         <>
@@ -9,7 +9,7 @@ function BodyImagenes() {
               <Imagen imagen={imgLeng}></Imagen>
         </div> 
         <div className="imagenCeroUno">
-            <Imagen imagen={imgCeroUno}></Imagen>
+            <Imagen imagen={imgCero}></Imagen>
         </div>
         </>
      );
